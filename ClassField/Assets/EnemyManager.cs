@@ -15,4 +15,3 @@ public class EnemyManager : MonoBehaviour
         print("怪物二號的裝備名稱"+ enemy2.Weapon);
     }
 }
-
