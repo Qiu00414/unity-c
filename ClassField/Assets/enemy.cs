@@ -59,5 +59,6 @@ public class enemy : MonoBehaviour
     /// </summary> 
     [Tooltip("怪物是否帶有寶物")]
     public bool  Treasure= false;
+    
 
 }

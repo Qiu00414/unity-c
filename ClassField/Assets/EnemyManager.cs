@@ -10,7 +10,9 @@ public class EnemyManager : MonoBehaviour
     public enemy enemy2;
 
     private void Start()
-    { 
+    {
+        print("怪物一號的魔力"+ enemy1.MP);
+        print("怪物二號的裝備名稱"+ enemy2.Weapon);
     }
 }
 
